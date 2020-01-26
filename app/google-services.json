@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915355645233",
+    "firebase_url": "https://loginui-4818c.firebaseio.com",
+    "project_id": "loginui-4818c",
+    "storage_bucket": "loginui-4818c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915355645233:android:e1c36952024190a98b6c10",
+        "android_client_info": {
+          "package_name": "com.example.loginui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915355645233-ekhv8bvv1a91qct2rcmivoqqafmfj3j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginui",
+            "certificate_hash": "3cde6b255a7e1d191a6d924d46da5ce52170917a"
+          }
+        },
+        {
+          "client_id": "915355645233-epo7eqg2ufu07u9mv8919ofhal6t8v8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh4Sle-CK7TI7S54yhLb6wChRErfxoJeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915355645233-epo7eqg2ufu07u9mv8919ofhal6t8v8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
